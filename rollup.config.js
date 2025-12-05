@@ -16,9 +16,11 @@ const isProduction = process.env.NODE_ENV === 'production';
 
 const createBanner = (format) => `/*!
  * AeroSSR v${pkg.version}
- * (c) ${new Date().getFullYear()} OBINexus Computing
+ * (c) ${new Date().getFullYear()} Nnamdi Michael Okpala / OBINexus Computing
  * Released under the ISC License
  * Format: ${format}
+ * Repository: https://github.com/obinexus/monoglot-aerossr
+ * Homepage: https://obinexus.org/projects/aerossr
  */`;
 
 // Updated alias configuration to match tsconfig paths
