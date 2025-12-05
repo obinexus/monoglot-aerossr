@@ -1,0 +1,33 @@
+{
+  "name": "@obinexus/aerossr",
+  "version": "0.1.0",
+  "description": "AeroSSR - A light, fast, monolithic server-side rendering (SSR) framework for non-polyglot systems. Built with TypeScript and constitutional integrity.",
+  "author": {
+    "name": "Nnamdi Michael Okpala",
+    "email": "obinexus@tuta.com",
+    "url": "https://obinexus.org"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obinexus/monoglot-aerossr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/obinexus/monoglot-aerossr/issues"
+  },
+  "homepage": "https://obinexus.org/projects/aerossr",
+  "funding": {
+    "type": "individual",
+    "url": "https://patreon.com/OBINexusComputing"
+  },
+  "keywords": [
+    "aerossr",
+    "ssr",
+    "server-side rendering",
+    "typescript",
+    "monoglot",
+    "obinexus",
+    "constitutional tech",
+    "non-polyglot"
+  ]
+}
