@@ -1,3 +1,9 @@
+/**
+ * Jest Configuration for AeroSSR
+ * ¸ 2025 Nnamdi Michael Okpala / OBINexus Computing
+ * Licensed under ISC
+ * https://github.com/obinexus/monoglot-aerossr
+ */
 import type { JestConfigWithTsJest } from 'ts-jest';
 
 const config: JestConfigWithTsJest = {

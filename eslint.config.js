@@ -1,3 +1,9 @@
+/**
+ * ESLint Configuration for AeroSSR
+ * ¸ 2025 Nnamdi Michael Okpala / OBINexus Computing
+ * Licensed under ISC
+ * https://github.com/obinexus/monoglot-aerossr
+ */
 import js from "@eslint/js";
 import tsParser from "@typescript-eslint/parser";
 import tsPlugin from "@typescript-eslint/eslint-plugin";
